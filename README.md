@@ -7,7 +7,7 @@ En este caso no lo he logrado debido a que son varios algoritmos a aprender, mem
 
 - Tener Python 3 instalado.
 - Tener los siguientes modulos:
-        - keyboard (para windows)
+  - keyboard (para windows)
 
 ## Objetivo
 
